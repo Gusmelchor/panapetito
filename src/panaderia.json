@@ -1,0 +1,233 @@
+[
+  {
+    "producto": "Pan de molde integral",
+    "precio": 7000,
+    "descripcion": "Pan de molde integral hecho con harina de trigo integral.",
+    "imagen": "pan-molde-integral.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Baguette francesa",
+    "precio": 8000,
+    "descripcion": "Baguette crujiente y tradicional francesa.",
+    "imagen": "baguette-francesa.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Panecillos de canela",
+    "precio": 4000,
+    "descripcion": "Panecillos dulces y esponjosos con canela.",
+    "imagen": "panecillos-canela.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Pan de centeno",
+    "precio": 6000,
+    "descripcion": "Pan denso y sabroso hecho con harina de centeno.",
+    "imagen": "pan-centeno.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Baguette multigrano",
+    "precio": 10000,
+    "descripcion": "Baguette hecha con una mezcla de granos integrales.",
+    "imagen": "baguette-multigrano.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Panecillos de arándanos",
+    "precio": 5000,
+    "descripcion": "Panecillos dulces con arándanos en su interior.",
+    "imagen": "panecillos-arandanos.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Panecillos de queso",
+    "precio": 5000,
+    "descripcion": "Panecillos con queso derretido en su interior.",
+    "imagen": "panecillos-queso.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Pan de ajo",
+    "precio": 4000,
+    "descripcion": "Pan crujiente con sabor a ajo y mantequilla.",
+    "imagen": "pan-ajo.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Rosquillas de vainilla",
+    "precio": 4000,
+    "descripcion": "Rosquillas glaseadas con sabor a vainilla.",
+    "imagen": "rosquillas-vainilla.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Croissant de chocolate",
+    "precio": 1200,
+    "descripcion": "Delicioso croissant relleno de chocolate.",
+    "imagen": "croissant-chocolate.webp",
+    "categoria": "pan"
+  },
+  {
+    "producto": "Café espresso",
+    "precio": 3000,
+    "descripcion": "Café espresso italiano con crema espesa.",
+    "imagen": "cafe-espresso.webp",
+    "categoria": "cafe"
+  },
+  {
+    "producto": "Café americano",
+    "precio": 3000,
+    "descripcion": "Café americano suave y aromático.",
+    "imagen": "cafe-americano.webp",
+    "categoria": "cafe"
+  },
+  {
+    "producto": "Café con leche",
+    "precio": 4000,
+    "descripcion": "Café espresso con leche caliente.",
+    "imagen": "cafe-con-leche.webp",
+    "categoria": "cafe"
+  },
+  {
+    "producto": "Jugo de naranja",
+    "precio": 5000,
+    "descripcion": "Jugo de naranja natural recién exprimido.",
+    "imagen": "jugo-naranja.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Agua mineral",
+    "precio": 3000,
+    "descripcion": "Agua mineral natural en botella.",
+    "imagen": "agua-mineral.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Coca Cola",
+    "precio": 4000,
+    "descripcion": "Refresco de cola frío y refrescante.",
+    "imagen": "coca-cola.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Cerveza artesanal",
+    "precio": 8000,
+    "descripcion": "Cerveza artesanal elaborada localmente.",
+    "imagen": "cerveza-artesanal.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Vino tinto",
+    "precio": 7000,
+    "descripcion": "Vino tinto de alta calidad.",
+    "imagen": "vino-tinto.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Té verde",
+    "precio": 6000,
+    "descripcion": "Té verde caliente y reconfortante.",
+    "imagen": "te-verde.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Batido de frutas",
+    "precio": 10000,
+    "descripcion": "Batido fresco de una variedad de frutas.",
+    "imagen": "batido-frutas.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Limonada",
+    "precio": 7000,
+    "descripcion": "Limonada casera con limones frescos.",
+    "imagen": "limonada.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Café helado",
+    "precio": 6000,
+    "descripcion": "Café helado con crema batida.",
+    "imagen": "cafe-helado.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Té de hierbas",
+    "precio": 6000,
+    "descripcion": "Té de hierbas caliente y relajante.",
+    "imagen": "te-hierbas.webp",
+    "categoria": "bebidas"
+  },
+  {
+    "producto": "Tarta de frutas",
+    "precio": 8000,
+    "descripcion": "Tarta dulce rellena de una variedad de frutas frescas.",
+    "imagen": "tarta_frutas.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Tarta de queso",
+    "precio": 9000,
+    "descripcion": "Tarta cremosa con base de galleta y cubierta de frutos rojos.",
+    "imagen": "tarta-queso.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Bollos de crema",
+    "precio": 2000,
+    "descripcion": "Bollos rellenos de crema pastelera.",
+    "imagen": "bollos-crema.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Croissant de almendra",
+    "precio": 5000,
+    "descripcion": "Croissant horneado con almendras y azúcar glas.",
+    "imagen": "croissant-almendra.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Empanada de manzana",
+    "precio": 4000,
+    "descripcion": "Empanada rellena de trozos de manzana y canela.",
+    "imagen": "empanada-manzana.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Donas glaseadas",
+    "precio": 5000,
+    "descripcion": "Donas dulces cubiertas con glaseado de azúcar.",
+    "imagen": "donas-glaseadas.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Bagel de todo",
+    "precio": 6000,
+    "descripcion": "Bagel con semillas de sésamo, amapola, lino y girasol.",
+    "imagen": "bagel-todo.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Croissant de jamón y queso",
+    "precio": 4500,
+    "descripcion": "Croissant relleno de jamón y queso derretido.",
+    "imagen": "croissant-jamon-queso.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Galletas de jengibre",
+    "precio": 2200,
+    "descripcion": "Galletas crujientes con sabor a jengibre, perfectas para la temporada navideña.",
+    "imagen": "galletas-jengibre.webp",
+    "categoria": "pasteles"
+  },
+  {
+    "producto": "Pan de pasas",
+    "precio": 7500,
+    "descripcion": "Pan esponjoso con pasas de uva en su interior.",
+    "imagen": "pan-de-pasas.webp",
+    "categoria": "pasteles"
+  }
+]
