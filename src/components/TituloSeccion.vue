@@ -18,7 +18,7 @@ h1 {
     text-transform: capitalize;
 }
 
-@media (max-with:768px) {
+@media (max-width:768px) {
     h1 {
         text-align: center;
         font-size: 2.5rem;

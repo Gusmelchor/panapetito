@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="logo">
-            <img src="/logo.svg" alt="logo" />
+            <img src="/logo.svg" alt="Logo" />
         </div>
         <nav class="menu">
             <ul>
@@ -43,7 +43,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 10px 20px;
-        font-weight: 500;
+        font-weight: 500px;
         text-shadow: 1px 1px 3px #202020;
 
     }
