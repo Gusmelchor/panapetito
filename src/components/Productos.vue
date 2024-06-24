@@ -77,7 +77,7 @@ watchEffect(() => {
 }
 @media (max-width: 768px) {
     .productos {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(1, 1fr); 
     }
 }
 </style>
